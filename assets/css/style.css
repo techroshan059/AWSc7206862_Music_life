@@ -1,0 +1,19 @@
+#follow{
+	color:brown;
+	font-size:20px;
+}
+
+#Info h2{
+	text-align: center;
+	color:brown;
+}
+
+#Info p{
+	color:black;
+
+}
+
+body{
+	background-color:white;
+	background-position: fixed;
+}
